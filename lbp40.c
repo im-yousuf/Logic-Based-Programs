@@ -1,5 +1,5 @@
 #include<stdio.h>
-int prime(int x){
+int prime(int x){ 
 	if(x==1){
 		printf("Not Prime Not Composite");
 	}
