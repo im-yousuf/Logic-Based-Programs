@@ -2,7 +2,7 @@
 int main(){
 	float m,v,KE;
 	printf("mass = ");
-	scanf("%f",&m);
+	scanf("%f",&m); 
 	printf("velocity = ");
 	scanf("%f",&v);
 	KE = ((0.5) * m * v * v) ;
